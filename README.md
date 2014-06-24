@@ -16,22 +16,26 @@
 - how to read data from a CSV file
 - dataframes
 
-## 2. How do we slice, dice and group data? What about other, useful operations
+## 2. What are the most common operations on the data?
 ### Objective
 - Learn the most common, basic operations on data
-- Learn to filter, group an aggregate data
-
-### Sections
 - the stats function
 - how to apply functions
 - string methods
 - understand Unix timestamps
 - concat, merge, append, groupby functions
+
+### Sections
+## 3. How do we slice, dice and group data?
+### Objective
+- Learn to filter, group an aggregate data
+
+### Sections
 - slice Dataframes like you would a regular Python list
 - filter Dataframes based on a column value, e.g. How many Reddit posts are submitted between midnight and 2AM EST?
 - compute aggregate counts for different column values, e.g. how many Reddit submissions came from the NY subreddit?
 
-## 3. How can we meaningfully analyze the data?
+## 4. How can we meaningfully analyze the data?
 ### Objective
 - Learn to extract insights from real data and in the process become comfortable with the fundamentals of Pandas.
 - Use example datasets real-world, useful and actually interesting, for example analyzing some subset of the 2.5 million Reddit posts (https://github.com/umbrae/reddit-top-2.5-million)
