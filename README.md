@@ -19,6 +19,8 @@
 ## 2. What are the most common operations on the data?
 ### Objective
 - Learn the most common, basic operations on data
+
+### Sections
 - the stats function
 - how to apply functions
 - string methods
