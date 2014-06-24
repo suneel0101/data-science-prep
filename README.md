@@ -27,7 +27,7 @@
 - understand Unix timestamps
 - concat, merge, append, groupby functions
 
-### Sections
+
 ## 3. How do we slice, dice and group data?
 ### Objective
 - Learn to filter, group an aggregate data
