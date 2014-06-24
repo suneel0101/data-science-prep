@@ -6,6 +6,8 @@
 
 ### Sections
 - Get a basic introduction to what Pandas, Numpy and Scipy are
+- How are they different
+- Real-life examples of their applications
 
 ## 1. How do we read in data?
 ### Objective
